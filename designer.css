@@ -1,0 +1,23 @@
+#main-body {
+    background-color: bisque;
+}
+
+#burito {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: auto;
+    height: 300px;
+    image-rendering: crisp-edges;
+}
+
+#item {
+    background-color: white;
+    margin-left: 500px;
+    margin-right: 500px;
+    border-color: black 2px;
+    border-radius: 5%;
+    padding: 10px;
+    overflow: hidden;
+}
+
