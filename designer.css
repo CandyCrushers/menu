@@ -9,6 +9,7 @@
     width: auto;
     height: 300px;
     image-rendering: crisp-edges;
+    border-radius: 5px;
 }
 
 #item {
@@ -16,8 +17,43 @@
     margin-left: 500px;
     margin-right: 500px;
     border-color: black 2px;
-    border-radius: 5%;
+    border-radius: 5px;
     padding: 10px;
     overflow: hidden;
 }
+
+#foodname {
+    text-align: center;
+    font-size: 50px;
+    font-style: italic;
+}
+
+#Preptime {
+    background-color: rgba(238, 130, 238, 0.4);
+    border-radius: 7px;
+    overflow: hidden;
+    padding: 10px;
+    width: 450px;
+    height: auto;
+
+
+}
+
+article #Preptime h1{
+    color: #9400d3;
+}
+
+article #ingredients h1{
+    color:brown
+}
+
+article #Instructions h1{
+    color: brown;
+}
+
+
+article #Nutrition h1{
+    color: brown;
+}
+
 
